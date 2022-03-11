@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @devmungai
+- 👀 I’m interested in fullstack web development with Typescript, React and AWS
+- 🌱 I’m currently learning Java and Spring 5
