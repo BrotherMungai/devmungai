@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @devmungai - AWS Certified Professional
-- 👀 I’m interested in fullstack web development with Typescript, React and AWS
-- 🌱 I’m currently learning Java and Spring 5
+- 👋 Hi, I am Mungai
